@@ -1,5 +1,6 @@
 package efs.task.collections.entity;
 
+import java.util.Comparator;
 import java.util.Objects;
 
 public class Hero {
